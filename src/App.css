@@ -1,22 +1,30 @@
-.App {
+body{
+  background-color: cadetblue;
   text-align: center;
 }
-
-.App-logo {
-  height: 40vmin;
+.operations{
+  margin: 10px;
+  color: blue;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.transactions{
+  margin: 10px;
+  color: blue;
 }
 
-.App-link {
-  color: #09d3ac;
+.breakdown{
+  margin: 10px;
+  color: blue;
+}
+
+#withdraw{
+  margin: 10px;
+}
+
+#deposit{
+  margin: 10px;
+}
+
+#delete{
+  margin: 10px;
 }
